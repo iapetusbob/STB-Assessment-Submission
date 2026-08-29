@@ -1,0 +1,439 @@
+series,level,date,value
+Accommodation,group,2008Q1,902
+Accommodation,group,2008Q2,1819
+Accommodation,group,2008Q3,2786
+Accommodation,group,2008Q4,3608
+Accommodation,group,2009Q1,724
+Accommodation,group,2009Q2,1387
+Accommodation,group,2009Q3,2100
+Accommodation,group,2009Q4,2839
+Accommodation,group,2010Q1,757
+Accommodation,group,2010Q2,1686
+Accommodation,group,2010Q3,2670
+Accommodation,group,2010Q4,3623
+Accommodation,group,2011Q1,1039
+Accommodation,group,2011Q2,2119
+Accommodation,group,2011Q3,3228
+Accommodation,group,2011Q4,4390
+Accommodation,group,2012Q1,1274
+Accommodation,group,2012Q2,2491
+Accommodation,group,2012Q3,3758
+Accommodation,group,2012Q4,5038
+Accommodation,group,2013Q1,1283
+Accommodation,group,2013Q2,2564
+Accommodation,group,2013Q3,3966
+Accommodation,group,2013Q4,5332
+Accommodation,group,2014Q1,1377
+Accommodation,group,2014Q2,2687
+Accommodation,group,2014Q3,4053
+Accommodation,group,2014Q4,5309
+Accommodation,group,2015Q1,1092
+Accommodation,group,2015Q2,2179
+Accommodation,group,2015Q3,3514
+Accommodation,group,2015Q4,4680
+Accommodation,group,2016Q1,1280
+Accommodation,group,2016Q2,2748
+Accommodation,group,2016Q3,4513
+Accommodation,group,2016Q4,5916
+Accommodation,group,2017Q1,1525
+Accommodation,group,2017Q2,2928
+Accommodation,group,2017Q3,4588
+Accommodation,group,2017Q4,6016
+Accommodation,group,2018Q1,1436
+Accommodation,group,2018Q2,2933
+Accommodation,group,2018Q3,4390
+Accommodation,group,2018Q4,5666
+Accommodation,group,2019Q1,1256
+Accommodation,group,2019Q2,2565
+Accommodation,group,2019Q3,4090
+Accommodation,group,2019Q4,5529
+Accommodation,group,2020Q1,862
+Accommodation,group,2020Q2,875
+Accommodation,group,2020Q3,905
+Accommodation,group,2020Q4,1022
+Accommodation,group,2021Q1,108
+Accommodation,group,2021Q2,210
+Accommodation,group,2021Q3,333
+Accommodation,group,2021Q4,580
+Accommodation,group,2022Q1,500
+Accommodation,group,2022Q2,1046
+Accommodation,group,2022Q3,1938
+Accommodation,group,2022Q4,2963
+Accommodation,group,2023Q1,1009
+Accommodation,group,2023Q2,2031
+Accommodation,group,2023Q3,3338
+Accommodation,group,2023Q4,4471
+Accommodation,group,2024Q1,1314
+Accommodation,group,2024Q2,2442
+Accommodation,group,2024Q3,3858
+Accommodation,group,2024Q4,5141
+Accommodation,group,2025Q1,1391
+Accommodation,group,2025Q2,2561
+Accommodation,group,2025Q3,3898
+Accommodation,group,2025Q4,5414
+Accommodation,group,2026Q1,1388
+Food & Beverage,group,2008Q1,448
+Food & Beverage,group,2008Q2,916
+Food & Beverage,group,2008Q3,1399
+Food & Beverage,group,2008Q4,1848
+Food & Beverage,group,2009Q1,377
+Food & Beverage,group,2009Q2,727
+Food & Beverage,group,2009Q3,1104
+Food & Beverage,group,2009Q4,1512
+Food & Beverage,group,2010Q1,417
+Food & Beverage,group,2010Q2,889
+Food & Beverage,group,2010Q3,1390
+Food & Beverage,group,2010Q4,1903
+Food & Beverage,group,2011Q1,546
+Food & Beverage,group,2011Q2,1091
+Food & Beverage,group,2011Q3,1675
+Food & Beverage,group,2011Q4,2239
+Food & Beverage,group,2012Q1,561
+Food & Beverage,group,2012Q2,1112
+Food & Beverage,group,2012Q3,1671
+Food & Beverage,group,2012Q4,2246
+Food & Beverage,group,2013Q1,582
+Food & Beverage,group,2013Q2,1139
+Food & Beverage,group,2013Q3,1740
+Food & Beverage,group,2013Q4,2294
+Food & Beverage,group,2014Q1,576
+Food & Beverage,group,2014Q2,1110
+Food & Beverage,group,2014Q3,1705
+Food & Beverage,group,2014Q4,2263
+Food & Beverage,group,2015Q1,532
+Food & Beverage,group,2015Q2,1072
+Food & Beverage,group,2015Q3,1723
+Food & Beverage,group,2015Q4,2319
+Food & Beverage,group,2016Q1,591
+Food & Beverage,group,2016Q2,1377
+Food & Beverage,group,2016Q3,2145
+Food & Beverage,group,2016Q4,2787
+Food & Beverage,group,2017Q1,700
+Food & Beverage,group,2017Q2,1405
+Food & Beverage,group,2017Q3,2032
+Food & Beverage,group,2017Q4,2649
+Food & Beverage,group,2018Q1,630
+Food & Beverage,group,2018Q2,1234
+Food & Beverage,group,2018Q3,1946
+Food & Beverage,group,2018Q4,2593
+Food & Beverage,group,2019Q1,588
+Food & Beverage,group,2019Q2,1175
+Food & Beverage,group,2019Q3,1848
+Food & Beverage,group,2019Q4,2497
+Food & Beverage,group,2020Q1,376
+Food & Beverage,group,2020Q2,390
+Food & Beverage,group,2020Q3,412
+Food & Beverage,group,2020Q4,454
+Food & Beverage,group,2021Q1,48
+Food & Beverage,group,2021Q2,93
+Food & Beverage,group,2021Q3,129
+Food & Beverage,group,2021Q4,192
+Food & Beverage,group,2022Q1,113
+Food & Beverage,group,2022Q2,367
+Food & Beverage,group,2022Q3,756
+Food & Beverage,group,2022Q4,1282
+Food & Beverage,group,2023Q1,868
+Food & Beverage,group,2023Q2,1858
+Food & Beverage,group,2023Q3,3008
+Food & Beverage,group,2023Q4,3977
+Food & Beverage,group,2024Q1,1103
+Food & Beverage,group,2024Q2,2051
+Food & Beverage,group,2024Q3,3192
+Food & Beverage,group,2024Q4,4269
+Food & Beverage,group,2025Q1,1259
+Food & Beverage,group,2025Q2,2380
+Food & Beverage,group,2025Q3,3660
+Food & Beverage,group,2025Q4,4912
+Food & Beverage,group,2026Q1,1235
+Other Components,group,2008Q1,1401
+Other Components,group,2008Q2,2825
+Other Components,group,2008Q3,4424
+Other Components,group,2008Q4,5861
+Other Components,group,2009Q1,1164
+Other Components,group,2009Q2,2256
+Other Components,group,2009Q3,3490
+Other Components,group,2009Q4,4712
+Other Components,group,2010Q1,1269
+Other Components,group,2010Q2,2576
+Other Components,group,2010Q3,4067
+Other Components,group,2010Q4,5421
+Other Components,group,2011Q1,1407
+Other Components,group,2011Q2,2803
+Other Components,group,2011Q3,4416
+Other Components,group,2011Q4,5768
+Other Components,group,2012Q1,1467
+Other Components,group,2012Q2,2901
+Other Components,group,2012Q3,4489
+Other Components,group,2012Q4,5970
+Other Components,group,2013Q1,1373
+Other Components,group,2013Q2,2798
+Other Components,group,2013Q3,4453
+Other Components,group,2013Q4,5819
+Other Components,group,2014Q1,1558
+Other Components,group,2014Q2,2957
+Other Components,group,2014Q3,4546
+Other Components,group,2014Q4,6049
+Other Components,group,2015Q1,1356
+Other Components,group,2015Q2,2628
+Other Components,group,2015Q3,4301
+Other Components,group,2015Q4,5772
+Other Components,group,2016Q1,1394
+Other Components,group,2016Q2,2855
+Other Components,group,2016Q3,4385
+Other Components,group,2016Q4,5739
+Other Components,group,2017Q1,1475
+Other Components,group,2017Q2,2966
+Other Components,group,2017Q3,4774
+Other Components,group,2017Q4,6352
+Other Components,group,2018Q1,1834
+Other Components,group,2018Q2,3627
+Other Components,group,2018Q3,5749
+Other Components,group,2018Q4,7440
+Other Components,group,2019Q1,1929
+Other Components,group,2019Q2,3770
+Other Components,group,2019Q3,6024
+Other Components,group,2019Q4,8026
+Other Components,group,2020Q1,1278
+Other Components,group,2020Q2,1396
+Other Components,group,2020Q3,1534
+Other Components,group,2020Q4,1700
+Other Components,group,2021Q1,162
+Other Components,group,2021Q2,324
+Other Components,group,2021Q3,477
+Other Components,group,2021Q4,723
+Other Components,group,2022Q1,431
+Other Components,group,2022Q2,1509
+Other Components,group,2022Q3,3076
+Other Components,group,2022Q4,4812
+Other Components,group,2023Q1,2036
+Other Components,group,2023Q2,4116
+Other Components,group,2023Q3,6557
+Other Components,group,2023Q4,8690
+Other Components,group,2024Q1,2386
+Other Components,group,2024Q2,4538
+Other Components,group,2024Q3,6866
+Other Components,group,2024Q4,9104
+Other Components,group,2025Q1,2511
+Other Components,group,2025Q2,4829
+Other Components,group,2025Q3,7367
+Other Components,group,2025Q4,9871
+Other Components,group,2026Q1,2544
+Shopping,group,2008Q1,1069
+Shopping,group,2008Q2,2004
+Shopping,group,2008Q3,2970
+Shopping,group,2008Q4,3982
+Shopping,group,2009Q1,852
+Shopping,group,2009Q2,1619
+Shopping,group,2009Q3,2448
+Shopping,group,2009Q4,3377
+Shopping,group,2010Q1,942
+Shopping,group,2010Q2,1897
+Shopping,group,2010Q3,2898
+Shopping,group,2010Q4,3971
+Shopping,group,2011Q1,1039
+Shopping,group,2011Q2,2081
+Shopping,group,2011Q3,3267
+Shopping,group,2011Q4,4489
+Shopping,group,2012Q1,1207
+Shopping,group,2012Q2,2305
+Shopping,group,2012Q3,3398
+Shopping,group,2012Q4,4588
+Shopping,group,2013Q1,1175
+Shopping,group,2013Q2,2356
+Shopping,group,2013Q3,3482
+Shopping,group,2013Q4,4553
+Shopping,group,2014Q1,1088
+Shopping,group,2014Q2,2049
+Shopping,group,2014Q3,3141
+Shopping,group,2014Q4,4116
+Shopping,group,2015Q1,961
+Shopping,group,2015Q2,1880
+Shopping,group,2015Q3,2920
+Shopping,group,2015Q4,3913
+Shopping,group,2016Q1,1176
+Shopping,group,2016Q2,2716
+Shopping,group,2016Q3,4355
+Shopping,group,2016Q4,5958
+Shopping,group,2017Q1,1611
+Shopping,group,2017Q2,3209
+Shopping,group,2017Q3,4727
+Shopping,group,2017Q4,6172
+Shopping,group,2018Q1,1470
+Shopping,group,2018Q2,2716
+Shopping,group,2018Q3,4053
+Shopping,group,2018Q4,5385
+Shopping,group,2019Q1,1371
+Shopping,group,2019Q2,2757
+Shopping,group,2019Q3,4183
+Shopping,group,2019Q4,5640
+Shopping,group,2020Q1,656
+Shopping,group,2020Q2,664
+Shopping,group,2020Q3,675
+Shopping,group,2020Q4,703
+Shopping,group,2021Q1,45
+Shopping,group,2021Q2,87
+Shopping,group,2021Q3,118
+Shopping,group,2021Q4,174
+Shopping,group,2022Q1,211
+Shopping,group,2022Q2,900
+Shopping,group,2022Q3,1745
+Shopping,group,2022Q4,2784
+Shopping,group,2023Q1,1098
+Shopping,group,2023Q2,2321
+Shopping,group,2023Q3,3715
+Shopping,group,2023Q4,4953
+Shopping,group,2024Q1,1338
+Shopping,group,2024Q2,2563
+Shopping,group,2024Q3,3893
+Shopping,group,2024Q4,5198
+Shopping,group,2025Q1,1305
+Shopping,group,2025Q2,2499
+Shopping,group,2025Q3,3865
+Shopping,group,2025Q4,5208
+Shopping,group,2026Q1,1396
+"Sightseeing, Entertainment & Gaming",group,2008Q1,37
+"Sightseeing, Entertainment & Gaming",group,2008Q2,72
+"Sightseeing, Entertainment & Gaming",group,2008Q3,113
+"Sightseeing, Entertainment & Gaming",group,2008Q4,177
+"Sightseeing, Entertainment & Gaming",group,2009Q1,37
+"Sightseeing, Entertainment & Gaming",group,2009Q2,101
+"Sightseeing, Entertainment & Gaming",group,2009Q3,151
+"Sightseeing, Entertainment & Gaming",group,2009Q4,201
+"Sightseeing, Entertainment & Gaming",group,2010Q1,219
+"Sightseeing, Entertainment & Gaming",group,2010Q2,1030
+"Sightseeing, Entertainment & Gaming",group,2010Q3,2178
+"Sightseeing, Entertainment & Gaming",group,2010Q4,3423
+"Sightseeing, Entertainment & Gaming",group,2011Q1,1339
+"Sightseeing, Entertainment & Gaming",group,2011Q2,2619
+"Sightseeing, Entertainment & Gaming",group,2011Q3,4090
+"Sightseeing, Entertainment & Gaming",group,2011Q4,5391
+"Sightseeing, Entertainment & Gaming",group,2012Q1,1513
+"Sightseeing, Entertainment & Gaming",group,2012Q2,2713
+"Sightseeing, Entertainment & Gaming",group,2012Q3,3791
+"Sightseeing, Entertainment & Gaming",group,2012Q4,5240
+"Sightseeing, Entertainment & Gaming",group,2013Q1,1349
+"Sightseeing, Entertainment & Gaming",group,2013Q2,2667
+"Sightseeing, Entertainment & Gaming",group,2013Q3,4148
+"Sightseeing, Entertainment & Gaming",group,2013Q4,5471
+"Sightseeing, Entertainment & Gaming",group,2014Q1,1617
+"Sightseeing, Entertainment & Gaming",group,2014Q2,3092
+"Sightseeing, Entertainment & Gaming",group,2014Q3,4412
+"Sightseeing, Entertainment & Gaming",group,2014Q4,5823
+"Sightseeing, Entertainment & Gaming",group,2015Q1,1372
+"Sightseeing, Entertainment & Gaming",group,2015Q2,2594
+"Sightseeing, Entertainment & Gaming",group,2015Q3,3935
+"Sightseeing, Entertainment & Gaming",group,2015Q4,5093
+"Sightseeing, Entertainment & Gaming",group,2016Q1,1199
+"Sightseeing, Entertainment & Gaming",group,2016Q2,2573
+"Sightseeing, Entertainment & Gaming",group,2016Q3,3981
+"Sightseeing, Entertainment & Gaming",group,2016Q4,5348
+"Sightseeing, Entertainment & Gaming",group,2017Q1,1414
+"Sightseeing, Entertainment & Gaming",group,2017Q2,2897
+"Sightseeing, Entertainment & Gaming",group,2017Q3,4224
+"Sightseeing, Entertainment & Gaming",group,2017Q4,5618
+"Sightseeing, Entertainment & Gaming",group,2018Q1,1498
+"Sightseeing, Entertainment & Gaming",group,2018Q2,2952
+"Sightseeing, Entertainment & Gaming",group,2018Q3,4472
+"Sightseeing, Entertainment & Gaming",group,2018Q4,5859
+"Sightseeing, Entertainment & Gaming",group,2019Q1,1457
+"Sightseeing, Entertainment & Gaming",group,2019Q2,2899
+"Sightseeing, Entertainment & Gaming",group,2019Q3,4404
+"Sightseeing, Entertainment & Gaming",group,2019Q4,5997
+"Sightseeing, Entertainment & Gaming",group,2020Q1,858
+"Sightseeing, Entertainment & Gaming",group,2020Q2,863
+"Sightseeing, Entertainment & Gaming",group,2020Q3,909
+"Sightseeing, Entertainment & Gaming",group,2020Q4,951
+"Sightseeing, Entertainment & Gaming",group,2021Q1,62
+"Sightseeing, Entertainment & Gaming",group,2021Q2,113
+"Sightseeing, Entertainment & Gaming",group,2021Q3,132
+"Sightseeing, Entertainment & Gaming",group,2021Q4,223
+"Sightseeing, Entertainment & Gaming",group,2022Q1,162
+"Sightseeing, Entertainment & Gaming",group,2022Q2,752
+"Sightseeing, Entertainment & Gaming",group,2022Q3,1568
+"Sightseeing, Entertainment & Gaming",group,2022Q4,2337
+"Sightseeing, Entertainment & Gaming",group,2023Q1,1007
+"Sightseeing, Entertainment & Gaming",group,2023Q2,2121
+"Sightseeing, Entertainment & Gaming",group,2023Q3,3691
+"Sightseeing, Entertainment & Gaming",group,2023Q4,5064
+"Sightseeing, Entertainment & Gaming",group,2024Q1,1937
+"Sightseeing, Entertainment & Gaming",group,2024Q2,3330
+"Sightseeing, Entertainment & Gaming",group,2024Q3,4613
+"Sightseeing, Entertainment & Gaming",group,2024Q4,6069
+"Sightseeing, Entertainment & Gaming",group,2025Q1,1622
+"Sightseeing, Entertainment & Gaming",group,2025Q2,3496
+"Sightseeing, Entertainment & Gaming",group,2025Q3,5317
+"Sightseeing, Entertainment & Gaming",group,2025Q4,7349
+"Sightseeing, Entertainment & Gaming",group,2026Q1,1992
+Tourism Receipts,total,2008Q1,3857
+Tourism Receipts,total,2008Q2,7636
+Tourism Receipts,total,2008Q3,11692
+Tourism Receipts,total,2008Q4,15475
+Tourism Receipts,total,2009Q1,3154
+Tourism Receipts,total,2009Q2,6090
+Tourism Receipts,total,2009Q3,9292
+Tourism Receipts,total,2009Q4,12642
+Tourism Receipts,total,2010Q1,3603
+Tourism Receipts,total,2010Q2,8077
+Tourism Receipts,total,2010Q3,13203
+Tourism Receipts,total,2010Q4,18341
+Tourism Receipts,total,2011Q1,5370
+Tourism Receipts,total,2011Q2,10713
+Tourism Receipts,total,2011Q3,16676
+Tourism Receipts,total,2011Q4,22277
+Tourism Receipts,total,2012Q1,6023
+Tourism Receipts,total,2012Q2,11521
+Tourism Receipts,total,2012Q3,17106
+Tourism Receipts,total,2012Q4,23081
+Tourism Receipts,total,2013Q1,5763
+Tourism Receipts,total,2013Q2,11523
+Tourism Receipts,total,2013Q3,17789
+Tourism Receipts,total,2013Q4,23469
+Tourism Receipts,total,2014Q1,6216
+Tourism Receipts,total,2014Q2,11895
+Tourism Receipts,total,2014Q3,17856
+Tourism Receipts,total,2014Q4,23560
+Tourism Receipts,total,2015Q1,5314
+Tourism Receipts,total,2015Q2,10353
+Tourism Receipts,total,2015Q3,16392
+Tourism Receipts,total,2015Q4,21777
+Tourism Receipts,total,2016Q1,5639
+Tourism Receipts,total,2016Q2,12269
+Tourism Receipts,total,2016Q3,19379
+Tourism Receipts,total,2016Q4,25748
+Tourism Receipts,total,2017Q1,6725
+Tourism Receipts,total,2017Q2,13405
+Tourism Receipts,total,2017Q3,20346
+Tourism Receipts,total,2017Q4,26807
+Tourism Receipts,total,2018Q1,6868
+Tourism Receipts,total,2018Q2,13462
+Tourism Receipts,total,2018Q3,20611
+Tourism Receipts,total,2018Q4,26942
+Tourism Receipts,total,2019Q1,6600
+Tourism Receipts,total,2019Q2,13166
+Tourism Receipts,total,2019Q3,20549
+Tourism Receipts,total,2019Q4,27689
+Tourism Receipts,total,2020Q1,4029
+Tourism Receipts,total,2020Q2,4187
+Tourism Receipts,total,2020Q3,4436
+Tourism Receipts,total,2020Q4,4830
+Tourism Receipts,total,2021Q1,425
+Tourism Receipts,total,2021Q2,828
+Tourism Receipts,total,2021Q3,1190
+Tourism Receipts,total,2021Q4,1894
+Tourism Receipts,total,2022Q1,1417
+Tourism Receipts,total,2022Q2,4573
+Tourism Receipts,total,2022Q3,9084
+Tourism Receipts,total,2022Q4,14178
+Tourism Receipts,total,2023Q1,6018
+Tourism Receipts,total,2023Q2,12446
+Tourism Receipts,total,2023Q3,20308
+Tourism Receipts,total,2023Q4,27156
+Tourism Receipts,total,2024Q1,8077
+Tourism Receipts,total,2024Q2,14923
+Tourism Receipts,total,2024Q3,22421
+Tourism Receipts,total,2024Q4,29781
+Tourism Receipts,total,2025Q1,8087
+Tourism Receipts,total,2025Q2,15766
+Tourism Receipts,total,2025Q3,24105
+Tourism Receipts,total,2025Q4,32755
+Tourism Receipts,total,2026Q1,8555
